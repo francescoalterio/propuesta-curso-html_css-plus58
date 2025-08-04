@@ -1,4 +1,4 @@
-# ✨ TEMARIO HTML ✨
+# TEMARIO HTML
 
 ## 1. _Introducción a HTML_
 

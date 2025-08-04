@@ -1,4 +1,4 @@
-# ✨ TEMARIO CSS ✨
+# TEMARIO CSS
 
 ## 1. _Introducción a CSS_
 > Breve historia, para qué sirve y cómo se relaciona con HTML. Sintaxis básica.
